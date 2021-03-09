@@ -1,20 +1,26 @@
-.product{
+.product {
     display: flex;
     border-bottom: 1px solid lightblue;
     margin-bottom: 5px;
     margin-right: 20px;
     padding-bottom: 10px;
 }
-.product-name{
+.product-name {
     color: rgb(99, 99, 236);
     font-weight: 400;
 }
-.main-button{
+.main-button {
     background-color: rgb(232, 169, 12);
-    width: 150px;
-    height: 30px;
+    width: 175px;
+    height: 40px;
     border: 1ps solid rgb(146, 212, 47);
     border-radius: 5px;
     box-shadow: 4px 4px 3px rgb(238, 208, 208);
     cursor: pointer;
+    margin-bottom: 10px;
+}
+.product-images {
+}
+.product-name {
+    margin-left: 10px;
 }
